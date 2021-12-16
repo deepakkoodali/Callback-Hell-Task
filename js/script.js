@@ -1,6 +1,6 @@
 
 
-const timer = document.getElementById('stopwatch');
+const timer = document.getElementById('timer');
 
 let sec = 11;
 let stoptime = true;
