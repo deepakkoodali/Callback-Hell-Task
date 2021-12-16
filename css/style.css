@@ -14,7 +14,7 @@ button{
     outline: none;
 }
 
-#stopwatch{
+#display{
     font-size: 100px;
     position: absolute;
     top: 45%;
